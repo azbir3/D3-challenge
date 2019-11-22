@@ -3,4 +3,4 @@
 Deployed website - https://azbir3.github.io/D3-challenge/index.html
 
 Final view - 
-![myimage-alt-tag](https://raw.githubusercontent.com/azbir3/D3_data_challenge/master/image/final_output.png)
+![myimage-alt-tag](https://github.com/azbir3/D3-challenge/blob/master/D3_data_journalism/image/final_output.png)
